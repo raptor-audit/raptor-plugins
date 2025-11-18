@@ -1,6 +1,6 @@
 # Raptor Plugins
 
-Official plugin repository for [Raptor](https://github.com/calvin-kimani/raptor) - Smart Contract Audit Framework.
+Official plugin repository for [Raptor](https://github.com/raptor-audit/raptor) - Smart Contract Audit Framework.
 
 ## Creating a Plugin
 

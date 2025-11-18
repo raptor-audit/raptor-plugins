@@ -380,4 +380,4 @@ except ImportError:
 
 ## License
 
-This repository is private and proprietary.
+[GPL-3.0](LICENSE)
